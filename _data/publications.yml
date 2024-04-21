@@ -12,7 +12,7 @@ main:
     authors: Zihua Zhao, Mengxi Chen, <strong>Tianjie Dai</strong>, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang.
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/GSC.png
 
   - title: Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow
     authors: Sizhe Wei, Yuxi Wei, Yue Hu, <strong>Yifan Lu</strong>, Yiqi Zhong, Siheng Chen, Ya Zhang
