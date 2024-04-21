@@ -14,10 +14,9 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     image: ./assets/img/GSC.png
 
-  - title: Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow
-    authors: Sizhe Wei, Yuxi Wei, Yue Hu, <strong>Yifan Lu</strong>, Yiqi Zhong, Siheng Chen, Ya Zhang
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
-    pdf: https://arxiv.org/abs/2309.16940
-    code: https://github.com/MediaBrain-SJTU/CoBEVFlow
-    image: ./assets/img/nips23_cobevflow.jpg
+  - title: "Bag of Tricks for Long-Tailed Multi-Label Classification on Chest X-Rays"
+    authors: Feng Hong<sup>*</sup>, <strong>Tianjie Dai<sup>*</sup></strong>, Jiangchao Yao, Ya Zhang, Yanfeng Wang.
+    conference_short: ICCV Workshop
+    conference: International Conference on Computer Vision Workshop <strong>(ICCVW)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2308.08853.pdf
+    image: ./assets/img/cvamd.png
