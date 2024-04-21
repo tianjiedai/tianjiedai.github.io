@@ -21,35 +21,31 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>折叠示例</title>
 <style>
-    button {
-        background-color: #4CAF50; /* Green */
-        border: none;
-        color: white;
-        padding: 10px 20px;
-        text-align: center;
-        text-decoration: none;
+    .arrow {
+        border: solid black;
+        border-width: 0 3px 3px 0;
         display: inline-block;
-        font-size: 16px;
-        margin: 4px 2px;
-        transition-duration: 0.4s;
-        cursor: pointer;
-        border-radius: 12px;
-        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        padding: 3px;
+        transform: rotate(45deg);
+        transition: transform 0.3s ease-in-out;
     }
 
-    button:hover {
-        background-color: #45a049;
+    .arrow.up {
+        transform: rotate(-135deg);
     }
 
-    .hidden {
+    #honorsList {
+        margin: 0 0 5px;
         display: none;
     }
 </style>
 </head>
 <body>
 
-<button onclick="toggleList()">Show all</button>
-<ul id="honorsList" style="margin:0 0 5px;">
+<button onclick="toggleList()">
+    <i class="arrow"></i>
+</button>
+<ul id="honorsList">
   <li><strong>National Scholarship: 2022 Fall</strong></li> 
   <!-- Uncomment the following lines when deploying -->
   <li>SJTU Excellent Undergraduate: 2023 Spring</li>
@@ -67,10 +63,16 @@
 <script>
 function toggleList() {
     var list = document.getElementById('honorsList');
-    list.style.display = list.style.display === 'none' ? 'block' : 'none';
+    var arrow = document.querySelector('.arrow');
+    if (list.style.display === 'none') {
+        list.style.display = 'block';
+        arrow.classList.add('up');
+    } else {
+        list.style.display = 'none';
+        arrow.classList.remove('up');
+    }
 }
 </script>
 
 </body>
 </html>
-
