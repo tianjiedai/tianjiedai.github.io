@@ -9,7 +9,6 @@ layout: homepage
 ## News
 
 - **[2024.03]** One paper is accepted to _IEEE Transactions on Medical Imaging_!
-- **[2024.03]** I start my internship at _Shanghai AI Laboratory_!
 - **[2024.02]** One paper is accepted to _CVPR 2024_!
 - **[2023.08]** One paper is accepted to _ICCV CVAMD 2023_!
 
