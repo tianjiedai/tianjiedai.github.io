@@ -5,13 +5,13 @@ main:
     conference: IEEE Transactions on Medical Imaging, Issue TBD, Volume 43. (Impact Factor = 10.6)
     pdf: https://ieeexplore.ieee.org/abstract/document/10478603
     code: https://github.com/Elfenreigen/UniChest
-    image: ./assets/img/tmi.png
+    image: ./assets/img/TMI.png
 
   - title: "Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning"
     authors: Zihua Zhao, Mengxi Chen, <strong>Tianjie Dai</strong>, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang.
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-    image: ./assets/img/cvpr.png
+    image: ./assets/img/CVPR.png
 
   - title: "Bag of Tricks for Long-Tailed Multi-Label Classification on Chest X-Rays"
     authors: Feng Hong<sup>*</sup>, <strong>Tianjie Dai<sup>*</sup></strong>, Jiangchao Yao, Ya Zhang, Yanfeng Wang.
