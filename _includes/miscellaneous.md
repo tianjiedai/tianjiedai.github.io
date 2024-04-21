@@ -7,5 +7,3 @@
     * Nocturne in C-sharp minor, Op. posth.
     * The Mountain Azaleas are Blooming Brightly Red
     * Colorful Clouds Chasing the Moon
-    * Pi Huang
-    * Liebesträum No. 3 in A-flat major
