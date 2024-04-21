@@ -12,7 +12,6 @@ layout: homepage
 - **[Mar. 2024]** I start my internship at _Shanghai AI Laboratory_!
 - **[Feb. 2024]** One paper is accepted to _CVPR 2024_!
 - **[Aug. 2023]** One paper is accepted to _ICCV CVAMD 2023_!
-- **[Sep. 2022]** _National Scholarship_ gets!
 
 {% include_relative _includes/publications.md %}
 
