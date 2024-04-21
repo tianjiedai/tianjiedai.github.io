@@ -13,6 +13,6 @@ main:
     authors: Zihua Zhao, Mengxi Chen, <strong>Tianjie Dai<strong>, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-    notes: Poster
+    # notes: Poster
     image: ./assets/img/teaser_example.png
 
