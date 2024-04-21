@@ -14,24 +14,20 @@
 <!--   <li><autocolor>Second Prize of 2020 National Undergraduate Mathematics Competition</autocolor></li> -->
 </ul>
 
-
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>折叠示例</title>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<title>Toggle Example</title>
 <style>
     .icon {
         display: inline-block;
         transition: transform 0.3s ease-in-out;
-        color: black; /* 可以修改颜色 */
-        font-size: 18px; /* 控制图标大小 */
-        transform: rotate(0deg);
+        transform: rotate(0deg); /* Initial state pointing right */
     }
 
     .icon.up {
-        transform: rotate(180deg);
+        transform: rotate(90deg); /* Rotates to point down */
     }
 
     #honorsList {
@@ -46,7 +42,7 @@
         display: flex;
         align-items: center;
         padding: 5px;
-        margin-top: -5px;
+        margin-top: -5px; /* Adjust as needed for alignment */
     }
 
     button:focus {
@@ -63,18 +59,19 @@
 <body>
 
 <button onclick="toggleList()">
-    <i class="fas fa-sword icon"></i>
+    <span class="icon">➡️</span>
     <span class="button-text">Click to show all</span>
 </button>
 <ul id="honorsList">
-  <li>Shao Ch’iu Alumni Scholarship: 2021 Fall</li>
-  <li>Kwang-Hua Scholarship: 2020 Fall</li>
-  <li>SJTU Excellence Scholarship: 2023 Fall, 2022 Fall, 2021 Fall, 2020 Fall</li>
-  <li>SJTU Academic Progress Scholarship: 2021 Fall</li>
-  <li>SJTU Merit Student: 2021 Fall</li>
-  <li>SJTU Excellent League Member: 2024 Spring, 2022 Spring, 2020 Spring</li>
-  <li>Top-5 in ICCV 2023 Workshop on Computer Vision for Automated Medical Diagnosis CXR-LT Competition</li>
-  <li>Second Prize of 2020 National Undergraduate Mathematics Competition</li>
+       <li><autocolor>SJTU Excellent Undergraduate: 2023 Spring</autocolor></li>
+       <li><autocolor>Shao Ch’iu Alumni Scholarship: 2021 Fall</autocolor></li>
+       <li><autocolor>Kwang-Hua Scholarship: 2020 Fall</autocolor></li>
+       <li><autocolor>SJTU Excellence Scholarship: 2023 Fall, 2022 Fall, 2021 Fall, 2020 Fall</autocolor></li>
+       <li><autocolor>SJTU Academic Progress Scholarship: 2021 Fall</autocolor></li> 
+       <li><autocolor>SJTU Merit Student: 2021 Fall</autocolor></li>
+       <li><autocolor>SJTU Excellent League Member: 2024 Spring, 2022 Spring, 2020 Spring</autocolor></li> 
+       <li><autocolor>Top-5 in ICCV 2023 Workshop on Computer Vision for Automated Medical Diagnosis CXR-LT Competition</autocolor></li>
+       <li><autocolor>Second Prize of 2020 National Undergraduate Mathematics Competition</autocolor></li> 
 </ul>
 
 <script>
@@ -93,4 +90,3 @@ function toggleList() {
 
 </body>
 </html>
-
