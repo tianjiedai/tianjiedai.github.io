@@ -3,23 +3,9 @@ layout: homepage
 ---
 
 ## About Me
+- **Bachelor's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2019-2023. Major in _Information Engineering_ and minor in _Finance_.
+- **Master's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2023-2026 (expected). Research in [MediaBrain](https://mediabrain.sjtu.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Prof. Ya Zhang](https://mediabrain.sjtu.edu.cn/yazhang/).
 
-It's me. Hi! 
-
-I am _Tianjie_, a first-year master student supervised by [Prof. Ya Zhang](https://mediabrain.sjtu.edu.cn/yazhang/) and [A.P. Jiangchao Yao](https://sunarker.github.io/index.html) at [MediaBrain](https://mediabrain.sjtu.edu.cn) and an intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/). Before that, I received my _B.S._ and _B.Ec._ degrees in _Information Engineering_ and _Finance_ at [SJTU](https://www.sjtu.edu.cn/) in _June, 2023_. My research interests lie in _AI4Medicine_.
-
-In my spare time, I love:
-
- ☑ Playing the piano, I'm a crazy fan of _F. F. Chopin_.🎹
-
- ☑ Playing different ball sports, like _table tennis_.🏓
-
- ☑ Learning the frontiers of military and aerospace.🚀
-
-## Research Interests
-
-- **AI For Medicine:** Multi-source Pre-training, Chest X-Ray
-- **Machine Learning:** Noisy label, Noisy correspondence, Multi-modal learning
 
 ## News
 
@@ -32,3 +18,12 @@ In my spare time, I love:
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## News
+In my spare time, I love:
+
+ ☑ Playing the piano, I'm a crazy fan of _F. F. Chopin_.🎹
+
+ ☑ Playing different ball sports, like _table tennis_.🏓
+
+ ☑ Learning the frontiers of military and aerospace.🚀
