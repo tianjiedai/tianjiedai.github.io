@@ -22,29 +22,3 @@ main:
     pdf: https://arxiv.org/abs/2309.16940
     code: https://github.com/MediaBrain-SJTU/CoBEVFlow
     image: ./assets/img/nips23_cobevflow.jpg
-
-  - title: Collaboration Helps Camera Overtake LiDAR in 3D Detection
-    authors: Yue Hu, <strong>Yifan Lu</strong>, Runsheng Xu, Weidi Xie, Siheng Chen, Yanfeng Wang
-    conference_short: CVPR
-    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
-    pdf: https://arxiv.org/abs/2303.13560
-    code: https://github.com/MediaBrain-SJTU/CoCa3D
-    image: ./assets/img/cvpr23_coca3d.jpg
-
-  - title: Robust Collaborative 3D Object Detection in Presence of Pose Errors
-    authors: <strong>Yifan Lu</strong>, Quanhao Li, Baoan Liu, Mehrdad Dianati, Chen Feng, Siheng Chen, Yanfeng Wang
-    conference_short: ICRA
-    conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.
-    pdf: https://arxiv.org/abs/2211.07214
-    code: https://github.com/yifanlu0227/CoAlign
-    image: ./assets/img/icra23_coalign.jpg
-    # notes: Early Accept
-    # bibtext: xxxx.txt
-
-  - title: "RainNet: A Large-Scale Imagery Dataset and Benchmark for Spatial Precipitation Downscaling"
-    authors: Xuanhong Chen, Kairui Feng, Naiyuan Liu, Bingbing Ni, <strong>Yifan Lu</strong> , Zhengyan Tong, Ziang Liu
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022.
-    pdf: https://arxiv.org/abs/2012.09700
-    page: https://neuralchen.github.io/RainNet/
-    image: ./assets/img/nips22_rainnet.jpg
