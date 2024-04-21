@@ -2,7 +2,7 @@ main:
   - title: "UniChest: Conquer-and-Divide Pre-training for Multi-Source Chest X-Ray Classification"
     authors: <strong>Tianjie Dai</strong>, Ruipeng Zhang, Feng Hong, Jiangchao Yao, Ya Zhang, Yanfeng Wang.
     conference_short: TMI
-    conference: IEEE Transactions on Medical Imaging, 2024.
+    conference: IEEE Transactions on Medical Imaging, Issue TBD, Volume 43. (Impact Factor = 10.6)
     pdf: https://ieeexplore.ieee.org/abstract/document/10478603
     code: https://github.com/Elfenreigen/UniChest
     image: ./assets/img/unichest.png
