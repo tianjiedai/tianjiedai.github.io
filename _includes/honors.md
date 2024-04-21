@@ -14,23 +14,24 @@
 <!--   <li><autocolor>Second Prize of 2020 National Undergraduate Mathematics Competition</autocolor></li> -->
 </ul>
 
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>折叠示例</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <style>
-    .arrow {
-        border: solid black;
-        border-width: 0 2px 2px 0; /* 尖头更小 */
+    .icon {
         display: inline-block;
-        padding: 2px; /* 尖头更小 */
-        transform: rotate(45deg);
         transition: transform 0.3s ease-in-out;
+        color: black; /* 可以修改颜色 */
+        font-size: 18px; /* 控制图标大小 */
+        transform: rotate(0deg);
     }
 
-    .arrow.up {
-        transform: rotate(-135deg);
+    .icon.up {
+        transform: rotate(180deg);
     }
 
     #honorsList {
@@ -39,12 +40,13 @@
     }
 
     button {
-        background-color: transparent; /* 去除背景颜色 */
+        background-color: transparent;
         border: none;
         cursor: pointer;
         display: flex;
-        align-items: center; /* 垂直居中箭头和文字 */
+        align-items: center;
         padding: 5px;
+        margin-top: -5px;
     }
 
     button:focus {
@@ -54,17 +56,17 @@
     .button-text {
         margin-left: 5px;
         font-size: 14px;
+        color: gray;
     }
 </style>
 </head>
 <body>
 
 <button onclick="toggleList()">
-    <i class="arrow"></i>
-    <span class="button-text">Click to show others</span>
+    <i class="fas fa-sword icon"></i>
+    <span class="button-text">Click to show all</span>
 </button>
 <ul id="honorsList">
-  <li>SJTU Excellent Undergraduate: 2023 Spring</li>
   <li>Shao Ch’iu Alumni Scholarship: 2021 Fall</li>
   <li>Kwang-Hua Scholarship: 2020 Fall</li>
   <li>SJTU Excellence Scholarship: 2023 Fall, 2022 Fall, 2021 Fall, 2020 Fall</li>
@@ -78,16 +80,17 @@
 <script>
 function toggleList() {
     var list = document.getElementById('honorsList');
-    var arrow = document.querySelector('.arrow');
+    var icon = document.querySelector('.icon');
     if (list.style.display === 'none') {
         list.style.display = 'block';
-        arrow.classList.add('up');
+        icon.classList.add('up');
     } else {
         list.style.display = 'none';
-        arrow.classList.remove('up');
+        icon.classList.remove('up');
     }
 }
 </script>
 
 </body>
 </html>
+
