@@ -1,4 +1,4 @@
-## Honors & Awards
+## Selected Honors
 
 <ul style="margin:0 0 5px;">
   <li><autocolor><strong>National Scholarship: 2022 Fall</strong></autocolor></li> 
