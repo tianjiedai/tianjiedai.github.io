@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-- **Bachelor's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2019-2023. Major in _Information Engineering_ and minor in _Finance_.
-- **Master's degree:** [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2023-2026. Research in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Prof. Ya Zhang](https://mediabrain.sjtu.edu.cn/yazhang/).
+- **Bachelor's degree:** [SJTU](https://en.sjtu.edu.cn/), 2019-2023. Major in _Information Engineering_ and minor in _Finance_.
+- **Master's degree:** [SJTU](https://en.sjtu.edu.cn/), 2023-2026. Research in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Prof. Ya Zhang](https://annzhanglion.github.io/).
 
 
 ## News
