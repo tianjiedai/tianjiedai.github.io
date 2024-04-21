@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## Intro.
-- **M.S.:** [SJTU](https://en.sjtu.edu.cn/), 2023-2026. AI4Med, tutored by [Prof. Ya Zhang](https://annzhanglion.github.io/).
-- **B.S.:** [SJTU](https://en.sjtu.edu.cn/), 2019-2023. _Information Engineering_ & _Finance_.
+- **M.S.:** SJTU, 2023-2026. _AI4Med_, tutored by _[Prof. Ya Zhang](https://annzhanglion.github.io/)_.
+- **B.S.:** SJTU, 2019-2023. _Information Engineering_ & _Finance_.
 
 ## News
 
