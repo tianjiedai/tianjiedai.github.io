@@ -20,6 +20,5 @@ layout: homepage
 
 ## Friends
 
-- **[2024.03]** One paper is accepted to _IEEE Transactions on Medical Imaging_!
-- **[2024.02]** One paper is accepted to _CVPR 2024_!
-- **[2023.08]** One paper is accepted to _ICCV CVAMD 2023_!
+- SJTU: [Zhiyuan Chen](https://chenzhiyuan-stack1.github.io/), [Geng Yu](https://warriors-30.github.io/), [Zelin Ni](https://scholar.google.com/citations?user=u-LZalUAAAAJ&hl=zh-CN), [Yue Xin](https://yuexin.netlify.app/), [Ruipeng Zhang](https://frankzhangrp.github.io/), [Feng Hong](https://feng-hong.github.io/research/)
+- UCLA: [Shanmu Wang](https://web.cs.ucla.edu/~shanmu/)
