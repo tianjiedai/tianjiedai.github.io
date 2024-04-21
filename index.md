@@ -8,10 +8,10 @@ layout: homepage
 
 ## News
 
-- **[Mar. 2024]** One paper is accepted to _IEEE Transactions on Medical Imaging_!
-- **[Mar. 2024]** I start my internship at _Shanghai AI Laboratory_!
-- **[Feb. 2024]** One paper is accepted to _CVPR 2024_!
-- **[Aug. 2023]** One paper is accepted to _ICCV CVAMD 2023_!
+- **[2024.03]** One paper is accepted to _IEEE Transactions on Medical Imaging_!
+- **[2024.03]** I start my internship at _Shanghai AI Laboratory_!
+- **[2024.02]** One paper is accepted to _CVPR 2024_!
+- **[2023.08]** One paper is accepted to _ICCV CVAMD 2023_!
 
 {% include_relative _includes/publications.md %}
 
