@@ -1,7 +1,7 @@
 ## Honors
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor><strong>National Scholarship: 2022 Fall</strong></autocolor></li> 
+  <li><autocolor>National Scholarship: 2022 Fall</autocolor></li> 
 <!--   <li><autocolor>SJTU Excellent Undergraduate: 2023 Spring</autocolor></li> -->
 <!--   <li><autocolor>Shao Ch’iu Alumni Scholarship: 2021 Fall</autocolor></li> -->
 <!--   <li><autocolor>Kwang-Hua Scholarship: 2020 Fall</autocolor></li> -->
@@ -60,7 +60,7 @@
 
 <button onclick="toggleList()">
     <span class="icon">➡️</span>
-    <span class="button-text">Click to show all</span>
+    <span class="button-text">Show all</span>
 </button>
 <ul id="honorsList">
        <li><autocolor>SJTU Excellent Undergraduate: 2023 Spring</autocolor></li>
