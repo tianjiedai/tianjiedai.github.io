@@ -3,8 +3,7 @@ layout: homepage
 ---
 
 ## Intro.
-- **M.S.:** SJTU, 2023-2026. _AI4Med_, tutored by _[Prof. Ya Zhang](https://annzhanglion.github.io/)_.
-- **B.S.:** SJTU, 2019-2023. _Information Engineering_ & _Finance_.
+I am currently a first-year master student at Shanghai Jiao Tong University, advised by [Prof. Ya Zhang](https://annzhanglion.github.io/). I received my bachelor’s degree from SJTU in June 2023, during which I majored in _Information Engineering_ and minored in _Finance_.
 
 ## News
 
