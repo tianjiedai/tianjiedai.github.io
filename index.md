@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## Intro.
-- **M.E.:** [SJTU](https://en.sjtu.edu.cn/), 2023-2026. Research in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Prof. Ya Zhang](https://annzhanglion.github.io/).
-- **B.E.:** [SJTU](https://en.sjtu.edu.cn/), 2019-2023. Major in _EE_ and minor in _Finance_.
+- **M.S.:** [SJTU](https://en.sjtu.edu.cn/), 2023-2026. Research in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Prof. Ya Zhang](https://annzhanglion.github.io/).
+- **B.S.:** [SJTU](https://en.sjtu.edu.cn/), 2019-2023. Major in _EE_ and minor in _Finance_.
 
 ## News
 
