@@ -1,16 +1,11 @@
-## Honors and Awards
-
-<h4 style="margin:0 10px 0;">Honors</h4>
+## Awards
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><autocolor>**National Scholarship: _2022 Fall_**</autocolor></li> 
+  <li><autocolor>SJTU Excellent Undergraduate: _2023 Spring_</autocolor></li>
+  <li><autocolor>Shao Ch’iu Alumni Scholarship: _2021 Fall_</autocolor></li>
+  <li><autocolor>Kwang-Hua Scholarship: _2020 Fall_</autocolor></li>
+  <li><autocolor>2019-2020 Outstanding Undergraduate Excellence Scholarship</autocolor></li>
+  <li><autocolor>2018-2020 SJTU Scholarship B Prize</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Awards</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>
