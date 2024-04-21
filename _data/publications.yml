@@ -1,7 +1,7 @@
 main:
 
   - title: "UniChest: Conquer-and-Divide Pre-training for Multi-Source Chest X-Ray Classification"
-    authors: <strong>Tianjie Dai<strong>, Ruipeng Zhang, Feng Hong, Jiangchao Yao, Ya Zhang, Yanfeng Wang
+    authors: <strong>Tianjie Dai<strong>, Ruipeng Zhang, Feng Hong, Jiangchao Yao, Ya Zhang, Yanfeng Wang.
     conference_short: TMI
     conference: IEEE Transactions on Medical Imaging, 2024.
     # pdf: https://ieeexplore.ieee.org/document/10478603/
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/unichest.png
 
   - title: "Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning"
-    authors: Zihua Zhao, Mengxi Chen, <strong>Tianjie Dai<strong>, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang
+    authors: Zihua Zhao, Mengxi Chen, <strong>Tianjie Dai<strong>, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang.
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     # notes: Poster
