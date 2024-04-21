@@ -39,9 +39,9 @@
   <li>SJTU Academic Progress Scholarship: 2021 Fall</li>
   <li>SJTU Merit Student: 2021 Fall</li>
   <li>SJTU Excellent League Member: 2024 Spring, 2022 Spring, 2020 Spring</li>
-  <li>Top-5 in ICCV 2023 Workshop on Computer Vision for Automated Medical Diagnosis CXR-LT Competition</li> -->
+  <li>Top-5 in ICCV 2023 Workshop on Computer Vision for Automated Medical Diagnosis CXR-LT Competition</li>
   <li>Finalist in 2021 Mathematical Contest in Modeling</li>
-  <li>Second Prize of 2020 National Undergraduate Mathematics Competition</li> -->
+  <li>Second Prize of 2020 National Undergraduate Mathematics Competition</li>
 </ul>
 
 <script>
