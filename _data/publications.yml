@@ -8,13 +8,11 @@ main:
     code: https://github.com/Elfenreigen/UniChest
     image: ./assets/img/unichest.png
 
-  - title: "An Extensible Framework for Open Heterogeneous Collaborative Perception"
-    authors: <strong>Yifan Lu</strong>, Yue Hu, Yiqi Zhong, Dequan Wang, Siheng Chen, Yanfeng Wang
-    conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://openreview.net/forum?id=KkrDUGIASk
-    code: https://github.com/yifanlu0227/HEAL
-    image: ./assets/img/iclr24_heal.jpg
+  - title: "Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning"
+    authors: Zihua Zhao, Mengxi Chen, <strong>Tianjie Dai</strong>, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang.
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    image: ./assets/img/teaser_example.png
 
   - title: Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow
     authors: Sizhe Wei, Yuxi Wei, Yue Hu, <strong>Yifan Lu</strong>, Yiqi Zhong, Siheng Chen, Ya Zhang
