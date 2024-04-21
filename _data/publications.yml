@@ -6,7 +6,7 @@ main:
     conference: IEEE Transactions on Medical Imaging, 2024.
     # pdf: https://ieeexplore.ieee.org/document/10478603/
     # code: https://github.com/Elfenreigen/UniChest
-    image: ./assets/img/unichest.pdf
+    image: ./assets/img/unichest.png
 
   - title: "Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning"
     authors: Zihua Zhao, Mengxi Chen, <strong>Tianjie Dai<strong>, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang
