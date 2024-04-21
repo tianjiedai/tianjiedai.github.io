@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Intro.
-I am currently a first-year master student at Shanghai Jiao Tong University, advised by [Prof. Ya Zhang](https://annzhanglion.github.io/). I received my bachelor’s degree from SJTU in June 2023, during which I majored in _Information Engineering_ and minored in _Finance_.
+I am currently a first-year master student at Shanghai Jiao Tong University working on _AI For Medicine_, advised by [Prof. Ya Zhang](https://annzhanglion.github.io/). I received my bachelor’s degree from SJTU in June 2023, during which I majored in _EE_ and minored in _Finance_.
 
 ## News
 
