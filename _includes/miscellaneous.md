@@ -1,5 +1,5 @@
 ## Miscellaneous
-- **🎹:** I'm a crazy fan of _Chopin_ and also keen on _Chinese traditional compositions_. I will record a series of piano pieces and upload them in the future. Stay tuned!
+- **🎹:** I'm a fan of _Chopin_ and also keen on _traditional compositions_. I will record a series of pieces and upload them in the future. Stay tuned!
     * Ballade No. 1 in G minor, Op. 23
     * Waltz in D-flat major, Op. 64, No. 1
     * Grande Valse in A-flat major, Op. 42
