@@ -21,6 +21,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>折叠示例</title>
 <style>
+    button {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        border-radius: 12px;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    button:hover {
+        background-color: #45a049;
+    }
+
     .hidden {
         display: none;
     }
@@ -28,7 +48,7 @@
 </head>
 <body>
 
-<button onclick="toggleList()">Toggle to show all</button>
+<button onclick="toggleList()">Show all</button>
 <ul id="honorsList" style="margin:0 0 5px;">
   <li><strong>National Scholarship: 2022 Fall</strong></li> 
   <!-- Uncomment the following lines when deploying -->
@@ -47,13 +67,10 @@
 <script>
 function toggleList() {
     var list = document.getElementById('honorsList');
-    if (list.style.display === 'none') {
-        list.style.display = 'block';
-    } else {
-        list.style.display = 'none';
-    }
+    list.style.display = list.style.display === 'none' ? 'block' : 'none';
 }
 </script>
 
 </body>
 </html>
+
