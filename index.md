@@ -17,6 +17,7 @@ layout: homepage
 
 {% include_relative _includes/honors.md %}
 
+{% include_relative _includes/miscellaneous.md %}
 ## Miscellaneous
 - **Piano 🎹:** I'm a crazy fan of _F. F. Chopin_ and I'm also keen on rhythms based on _Chinese traditional compositions_. Recently, I will record a series of piano pieces and will upload them gradually. Stay tuned!
     * Ballade No. 1 in G minor, Op. 23
