@@ -8,9 +8,9 @@ layout: homepage
 
 ## News
 
-- **[2024.03]** One paper is accepted to _IEEE Transactions on Medical Imaging_!
-- **[2024.02]** One paper is accepted to _CVPR 2024_!
-- **[2023.08]** One paper is accepted to _ICCV CVAMD 2023_!
+- **[2024.03]** 1 paper is accepted to _IEEE Transactions on Medical Imaging_.
+- **[2024.02]** 1 paper is accepted to _CVPR 2024_.
+- **[2023.08]** 1 paper is accepted to _ICCV CVAMD 2023_.
 
 {% include_relative _includes/publications.md %}
 
