@@ -63,13 +63,13 @@
     <span class="button-text">Show all</span>
 </button>
 <ul id="honorsList">
+       <li><autocolor>2024/2022/2020 SJTU Excellent League Member</autocolor></li> 
+       <li><autocolor>2023/2022/2021/2020 SJTU Excellence Scholarship</autocolor></li>
        <li><autocolor>2023 SJTU Excellent Undergraduate</autocolor></li>
-       <li><autocolor>2021 Shao Ch’iu Alumni Scholarship</autocolor></li>
-       <li><autocolor>2020 Kwang-Hua Scholarship</autocolor></li>
-       <li><autocolor>2020/2021/2022/2023 SJTU Excellence Scholarship</autocolor></li>
-       <li><autocolor>2021 SJTU Academic Progress Scholarship</autocolor></li> 
        <li><autocolor>2021 SJTU Merit Student</autocolor></li>
-       <li><autocolor>2020/2022/2024 SJTU Excellent League Member: 2024 Spring, 2022 Spring, 2020 Spring</autocolor></li> 
+       <li><autocolor>2021 Shao Ch’iu Scholarship</autocolor></li>
+       <li><autocolor>2021 SJTU Academic Progress Scholarship</autocolor></li> 
+       <li><autocolor>2020 Kwang-Hua Scholarship</autocolor></li>
        <li><autocolor>2020 Second Prize of National Undergraduate Mathematics Competition</autocolor></li> 
 </ul>
 
