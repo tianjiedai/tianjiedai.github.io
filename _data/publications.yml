@@ -15,7 +15,7 @@ main:
 
   - title: "Bag of Tricks for Long-Tailed Multi-Label Classification on Chest X-Rays"
     authors: Feng Hong<sup>*</sup>, <strong>Tianjie Dai<sup>*</sup></strong>, Jiangchao Yao, Ya Zhang, Yanfeng Wang.
-    conference_short: ICCV Workshop
-    conference: International Conference on Computer Vision CVAMD Workshop <strong>(ICCVW)</strong>, 2023.
+    conference_short: ICCVW
+    conference: International Conference on Computer Vision Workshop <strong>(ICCVW)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2308.08853.pdf
     image: ./assets/img/iccvw.png
