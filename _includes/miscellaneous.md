@@ -1,7 +1,6 @@
 ## Miscellaneous
 - **🎹:** I'm a fan of _Chopin_ and also keen on _traditional compositions_. I will record a series of pieces and upload them in the future. Stay tuned!
     * Ballade No. 1 in G minor, Op. 23
-    * Waltz in D-flat major, Op. 64, No. 1
     * Grande Valse in A-flat major, Op. 42
     * Nocturne in E-flat major, Op. 9, No. 2
     * The Mountain Azaleas are Blooming Brightly Red
