@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 ## Intro.
-I am currently a first-year master student at Shanghai Jiao Tong University working on _AI For Medicine_, advised by [Prof. Ya Zhang](https://annzhanglion.github.io/). I received my bachelor’s degree from SJTU in June 2023, during which I majored in _EE_ and minored in _Finance_.
+I am a first-year master candidate at Shanghai Jiao Tong University working on _AI For Medicine_, advised by [Prof. Ya Zhang](https://annzhanglion.github.io/). I received my bachelor’s degree from SJTU in June 2023, during which I majored in _EE_ and minored in _Finance_.
 
-## News
+## Info.
 
 - **[2024.03]** 1 paper is accepted to _IEEE Transactions on Medical Imaging_. 🎉
 - **[2024.02]** 1 paper is accepted to _CVPR 2024_. 🎉
