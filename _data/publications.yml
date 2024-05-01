@@ -7,7 +7,7 @@ main:
     code: https://github.com/Elfenreigen/UniChest
     page: https://tianjiedai.github.io/unichest/
     image: ./assets/img/TMI.png
-    poster: ./assets/pdf/CVAMD_poster.pdf
+
 
   - title: "Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning"
     authors: Zihua Zhao, Mengxi Chen, <strong>Tianjie Dai</strong>, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang.
@@ -22,3 +22,4 @@ main:
     conference: IEEE/CVF International Conference on Computer Vision Workshop, 2023.
     pdf: https://arxiv.org/pdf/2308.08853.pdf
     image: ./assets/img/iccvw.png
+    poster: ./assets/pdf/CVAMD_poster.pdf
