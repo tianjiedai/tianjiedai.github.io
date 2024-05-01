@@ -12,5 +12,3 @@
   <li><autocolor>2020 Kwang-Hua Scholarship</autocolor></li>
   <li><autocolor>2020 Second Prize of National Undergraduate Mathematics Competition</autocolor></li> 
 
-</body>
-</html>
