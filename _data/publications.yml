@@ -7,7 +7,7 @@ main:
     code: https://github.com/Elfenreigen/UniChest
     page: https://tianjiedai.github.io/unichest/
     image: ./assets/img/TMI.png
-    notes: Patent: CN117893768A
+    notes: CN117893768A
 
 
   - title: "Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning"
