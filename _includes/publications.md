@@ -37,7 +37,7 @@
       <a href="{{ link.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       {% endif %}
       {% if link.notes %} 
-      <i style="color:#808080">{{ link.notes }}</i>
+      <br><i style="color:#808080">{{ link.notes }}</i><br>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
