@@ -3,7 +3,7 @@ main:
     authors: <strong>Tianjie Dai</strong>, Ruipeng Zhang, Feng Hong, Jiangchao Yao, Ya Zhang, Yanfeng Wang.
     conference_short: IEEE-TMI
     conference: IEEE Transactions on Medical Imaging, Issue TBD, Volume 43. (Impact Factor = 10.6, SCI District 1 Top in Medicine)
-    notes: Patent\: CN117893768A
+    notes: "Patent: CN117893768A"
     pdf: https://ieeexplore.ieee.org/abstract/document/10478603
     code: https://github.com/Elfenreigen/UniChest
     page: https://tianjiedai.github.io/unichest/
