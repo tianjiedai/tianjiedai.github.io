@@ -15,7 +15,7 @@ main:
     authors: Zihua Zhao, Mengxi Chen, <strong>Tianjie Dai</strong>, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang.
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
-    pdf: https://arxiv.org/pdf/2405.16996v1
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Mitigating_Noisy_Correspondence_by_Geometrical_Structure_Consistency_Learning_CVPR_2024_paper.pdf
     code: https://github.com/MediaBrain-SJTU/GSC/
     image: ./assets/img/CVPR.png
     poster: ./assets/img/GSC.png
