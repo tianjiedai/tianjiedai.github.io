@@ -10,7 +10,7 @@ I am a first-year master candidate at Shanghai Jiao Tong University working on _
 {% include_relative _includes/honors.md %}
 
 ## Services
-Reviewer for IEEE Transactions on Medical Imaging
+Reviewer for _IEEE Transactions on Medical Imaging_
 
 {% include_relative _includes/miscellaneous.md %}
 
