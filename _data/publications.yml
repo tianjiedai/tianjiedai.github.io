@@ -4,7 +4,7 @@ main:
     conference_short: IEEE-TMI
     conference: IEEE Transactions on Medical Imaging, Issue 8, Volume 43. (Impact Factor = 10.6, SCI District 1 Top)
     notes: "Patent: CN117893768A"
-    pdf: https://ieeexplore.ieee.org/abstract/document/10478603
+    pdf: ./assets/pdf/UniChest.pdf
     code: https://github.com/Elfenreigen/UniChest
     page: https://tianjiedai.github.io/unichest/
     image: ./assets/img/TMI.png
