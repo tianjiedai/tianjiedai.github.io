@@ -1,6 +1,7 @@
 ## Honors
 
-- **2022 National Scholarship**
+- **2024 National Scholarship for Graduate Students**
+- **2022 National Scholarship for Bachelor Students**
 - 2024/2022/2020 SJTU Excellent League Member
 - 2023/2022/2021/2020 SJTU Excellence Scholarship
 - 2023 SJTU Excellent Undergraduate
