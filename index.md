@@ -12,4 +12,4 @@ I am a second-year master candidate at Shanghai Jiao Tong University working on 
 {% include_relative _includes/miscellaneous.md %}
 
 
-<script language="Javascript"> var date = new Date(document.lastModified); document.write("Version: " + date.toLocaleDateString()); </script>
+<script language="Javascript"> var date = new Date(document.lastModified); document.write("Updated: " + date.toLocaleDateString()); </script>
