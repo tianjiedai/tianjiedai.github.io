@@ -1,4 +1,12 @@
 main:
+
+  - title: "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray"
+    authors: <strong>Runner-up Award</strong>
+    conference_short: MedIA
+    conference: Medical Image Analysis.
+    Leaderboard: https://cxr-lt.github.io/CXR-LT-2024/
+    image: ./assets/img/miccai.png
+    
   - title: "UniChest: Conquer-and-Divide Pre-training for Multi-Source Chest X-Ray Classification"
     authors: <strong>First Author</strong>
     conference_short: IEEE-TMI
