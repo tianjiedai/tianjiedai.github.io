@@ -3,8 +3,8 @@
 - **2024 National Scholarship for Graduate Students**
 - **2022 National Scholarship for Undergraduates**
 - 2024/2022/2020 SJTU Excellent League Member
-- 2023/2022/2021/2020 SJTU Excellence Scholarship
 - 2023 SJTU Excellent Undergraduate
+- 2022/2021/2020 SJTU Excellence Scholarship for Undergraduates
 - 2021 SJTU Merit Student
 - 2021 Shao Ch’iu Scholarship
 - 2021 SJTU Academic Progress Scholarship
