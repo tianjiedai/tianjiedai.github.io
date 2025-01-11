@@ -5,7 +5,7 @@ main:
     conference_short: MedIA
     conference: Medical Image Analysis.
     Leaderboard: https://cxr-lt.github.io/CXR-LT-2024/
-    image: ./assets/img/miccai.pn
+    image: ./assets/img/miccai.png
     
   - title: "UniChest: Conquer-and-Divide Pre-training for Multi-Source Chest X-Ray Classification"
     authors: <strong>First Author</strong>
