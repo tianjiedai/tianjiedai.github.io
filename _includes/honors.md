@@ -12,5 +12,11 @@
 - 2020 Kwang-Hua Scholarship
 - 2020 Second Prize of National Undergraduate Mathematics Competition
 
+## Internship
+
+- 2024.03 - 2024.09 Shanghai Artificial Intelligence Laboratory
+- 2025.05 - Present Taobao & Tmall Group
+
+
 ## Services
 - Reviewer for _IEEE Transactions on Medical Imaging_
