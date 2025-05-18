@@ -13,9 +13,7 @@
 - 2020 Second Prize of National Undergraduate Mathematics Competition
 
 ## Internship
-
 - 2024.03 - 2024.09 Shanghai AI Laboratory
-- 2025.05 - Present Taobao & Tmall Group
 
 
 ## Services
