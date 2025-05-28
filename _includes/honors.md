@@ -14,7 +14,7 @@
 
 ## Internship
 - 2024.03 - 2024.09 Frontier Research Center, Shanghai AI Laboratory
-- 2025.05 -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search & Recommendation Department, Taobao & Tmall Group
+- 2025.05 -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search & Recommendation Department, Taobao & Tmall Group
 
 
 ## Services
