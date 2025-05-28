@@ -18,4 +18,4 @@
 
 
 ## Services
-- Reviewer for _IEEE Transactions on Medical Imaging_, ICML 2025, ICCV 2025
+- Reviewer for _IEEE TMI_, _ICML 2025_, _ICCV 2025_
