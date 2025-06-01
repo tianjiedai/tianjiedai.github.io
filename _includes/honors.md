@@ -12,10 +12,5 @@
 - 2020 Kwang-Hua Scholarship
 - 2020 Second Prize of National Undergraduate Mathematics Competition
 
-## Internship
-- 2024.03 - 2024.09 Frontier Research Center, Shanghai AI Laboratory
-- 2025.05 -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search & Recommendation Department, Taobao & Tmall Group
-
-
 ## Services
 - Reviewer for _IEEE TMI_, _ICML 2025_, _ICCV 2025_
