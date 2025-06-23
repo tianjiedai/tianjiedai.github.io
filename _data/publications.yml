@@ -24,6 +24,7 @@ main:
     authors: <strong>Third Author</strong>
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+    notes: "Patent: CN118503468A"
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Mitigating_Noisy_Correspondence_by_Geometrical_Structure_Consistency_Learning_CVPR_2024_paper.pdf
     code: https://github.com/MediaBrain-SJTU/GSC/
     image: ./assets/img/CVPR.png
