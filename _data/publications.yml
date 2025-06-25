@@ -3,7 +3,7 @@ main:
   - title: "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray"
     authors: <strong>Runner-up Award</strong>
     conference_short: MedIA
-    conference: Medical Image Analysis. (Major Revision)
+    conference: Medical Image Analysis.
     pdf: https://www.arxiv.org/pdf/2506.07984
     leaderboard: https://cxr-lt.github.io/CXR-LT-2024/
     image: ./assets/img/miccai.png
@@ -17,8 +17,6 @@ main:
     code: https://github.com/Elfenreigen/UniChest
     page: https://tianjiedai.github.io/unichest/
     image: ./assets/img/TMI.png
-
-
 
   - title: "Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning"
     authors: <strong>Third Author</strong>
