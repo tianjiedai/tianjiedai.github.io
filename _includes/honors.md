@@ -1,5 +1,5 @@
 ## Preprints
-- Several first-author or co-first-author papers are under submission, in rebuttal, or in preparation, covering topics including domain-specific VLP with real-world validation, domain-specific trustworthy VLP, domain-specific data mining, and efficient MLLM.
+- Several first-author or co-first-author papers are under submission, in rebuttal, or in preparation, covering topics including domain-specific multi-modality learning with real-world validation, domain-specific trustworthy multi-modality learning, domain-specific data mining, and efficient inference.
 
 ## Honors
 
