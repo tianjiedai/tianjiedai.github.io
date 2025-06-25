@@ -1,7 +1,7 @@
 main:
 
   - title: "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray"
-    authors: <strong>Runner-up Award</strong>
+    authors: <strong>Team Leader, Runner-up Award</strong>
     conference_short: MedIA
     conference: Medical Image Analysis.
     pdf: https://www.arxiv.org/pdf/2506.07984
