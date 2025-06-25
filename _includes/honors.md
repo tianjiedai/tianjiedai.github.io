@@ -1,5 +1,5 @@
 ## Preprints
-- Several first-author or co-first-author papers are under submission, in rebuttal, or in preparation, covering topics including domain-specific multi-modality learning with real-world validation, domain-specific trustworthy multi-modality learning, domain-specific data mining, and efficient inference.
+- Four first-author or co-first-author papers are under submission, in rebuttal, or in preparation, covering topics including domain-specific vision-language pre-training, real-world trustworthy application, domain-specific representation understanding, and efficient machine learning.
 
 ## Honors
 
