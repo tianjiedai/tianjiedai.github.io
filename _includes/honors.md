@@ -1,5 +1,5 @@
 ## Preprints
-- Five first-author or co-first-author papers are under submission, in rebuttal, or in preparation, covering topics including domain-specific vision-language pre-training, trustworthy multi-modal learning, real-world explainable application, sequential representation understanding, and efficient machine learning.
+- More first-author or co-first-author papers are forthcoming, covering diverse topics including domain-specific pre-training, trustworthy retrieval, explainable applications, representation understanding, and efficient serving.
 
 ## Honors
 
