@@ -1,8 +1,4 @@
-## Preprints
-- More first-author or co-first-author papers are forthcoming, covering diverse topics including domain-specific pre-training, trustworthy retrieval, explainable applications, representation understanding, and efficient serving.
-
 ## Honors
-
 - **2024 National Scholarship for Graduate Students**
 - **2022 National Scholarship for Undergraduates**
 - 2025/2024/2022/2020 SJTU Excellent League Member
