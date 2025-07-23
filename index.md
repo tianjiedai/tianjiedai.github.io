@@ -7,6 +7,8 @@ I am pursuing my master's degree at Shanghai Jiao Tong University. I received my
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/preprints.md %}
+
 {% include_relative _includes/honors.md %}
 
 {% include_relative _includes/miscellaneous.md %}
