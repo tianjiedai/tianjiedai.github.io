@@ -1,0 +1,37 @@
+main:
+
+  - title: "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray"
+    authors: <strong>Team Leader, Runner-up Award</strong>
+    conference_short: MedIA
+    conference: Medical Image Analysis. (Impact Factor = 11.8, SCI District 1 Top)
+    pdf: https://www.arxiv.org/pdf/2506.07984
+    leaderboard: https://cxr-lt.github.io/CXR-LT-2024/
+    image: ./assets/img/miccai.png
+    
+  - title: "UniChest: Conquer-and-Divide Pre-training for Multi-Source Chest X-Ray Classification"
+    authors: <strong>First Author</strong>
+    conference_short: IEEE-TMI
+    conference: IEEE Transactions on Medical Imaging, Issue 8, Volume 43. (Impact Factor = 10.6, SCI District 1 Top)
+    notes: "Patent: CN117893768A"
+    pdf: ./assets/pdf/UniChest.pdf
+    code: https://github.com/Elfenreigen/UniChest
+    page: https://tianjiedai.github.io/unichest/
+    image: ./assets/img/TMI.png
+
+  - title: "Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning"
+    authors: <strong>Third Author</strong>
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+    notes: "Patent: CN118503468A"
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Mitigating_Noisy_Correspondence_by_Geometrical_Structure_Consistency_Learning_CVPR_2024_paper.pdf
+    code: https://github.com/MediaBrain-SJTU/GSC/
+    image: ./assets/img/CVPR.png
+    poster: ./assets/img/GSC.png
+
+  - title: "Bag of Tricks for Long-Tailed Multi-Label Classification on Chest X-Rays"
+    authors: <strong>Co-first Author</strong>
+    conference_short: ICCVW
+    conference: IEEE/CVF International Conference on Computer Vision Workshop, 2023.
+    pdf: https://arxiv.org/pdf/2308.08853.pdf
+    image: ./assets/img/iccvw.png
+    poster: ./assets/pdf/CVAMD_poster.pdf
