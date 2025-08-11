@@ -4,7 +4,7 @@ main:
     authors: <strong>Team Leader, Runner-up Award</strong>
     conference_short: MedIA
     conference: Medical Image Analysis, December 2025, Volume 106. (Impact Factor = 11.8, SCI District 1 Top)
-    pdf: https://www.arxiv.org/pdf/2506.07984
+    pdf: ./assets/pdf/MICCAI_challenge.pdf
     leaderboard: https://cxr-lt.github.io/CXR-LT-2024/
     image: ./assets/img/miccai.png
     
