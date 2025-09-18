@@ -1,5 +1,11 @@
 main:
-
+  - title: "RAD: Towards Trustworthy Retrieval-Augmented Multi-modal Clinical Diagnosis"
+    authors: <strong>Co-first Author</strong>
+    conference_short: NeurIPS
+    conference: The Thirty-ninth Annual Conference on Neural Information Processing Systems, 2025.
+    pdf: https://openreview.net/pdf?id=Iicv9iTPcU
+    image: ./assets/img/rad.png
+    
   - title: "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray"
     authors: <strong>Team Leader, Runner-up Award</strong>
     conference_short: MedIA
