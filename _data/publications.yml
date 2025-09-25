@@ -3,7 +3,7 @@ main:
     authors: <strong>Co-first Author</strong>
     conference_short: NeurIPS
     conference: The Thirty-ninth Annual Conference on Neural Information Processing Systems, 2025.
-    pdf: https://openreview.net/pdf?id=Iicv9iTPcU
+    pdf: ./assets/pdf/RAD.pdf
     image: ./assets/img/rad.png
     
   - title: "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray"
