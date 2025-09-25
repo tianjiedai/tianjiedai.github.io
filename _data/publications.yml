@@ -5,6 +5,7 @@ main:
     conference: The Thirty-ninth Annual Conference on Neural Information Processing Systems, 2025.
     pdf: ./assets/pdf/RAD.pdf
     image: ./assets/img/rad.png
+    code: https://github.com/tdlhl/RAD
     
   - title: "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray"
     authors: <strong>Team Leader, Runner-up Award</strong>
